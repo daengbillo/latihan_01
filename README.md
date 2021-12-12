@@ -1,2 +1,4 @@
 # latihan_01
-belajar repositori
+apt install
+apt update
+
